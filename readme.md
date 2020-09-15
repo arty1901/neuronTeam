@@ -1,9 +1,10 @@
 # Team
-1. Бабарина Татьяна (t.babarina@gmail.com)
-2. Сибгатуллина Айгуль (aigul.sibgatulli@mail.ru)
-3. Аюпов Дамир (adamir21198@gmail.com)
+1. Аюпов Дамир (adamir21198@gmail.com)
+2. Бабарина Татьяна (t.babarina@gmail.com)
+3. Климов Роман (itis.klimov@gmail.com)
 4. Лутфуллин Данис (danislut97@yandex.ru)
-5. Чайбар Артыш (arty1901@gmail.com)
+5. Сибгатуллина Айгуль (aigul.sibgatulli@mail.ru)
+6. Чайбар Артыш (arty1901@gmail.com)
 
 # Our topics
 1. !Нейронка, которая имитирует стиль письма сообщений
