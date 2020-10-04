@@ -1,1 +1,7 @@
 .vs
+.ipynb_checkpoints
+data
+pretrained_models
+.mp3
+.vaw
+.idea
